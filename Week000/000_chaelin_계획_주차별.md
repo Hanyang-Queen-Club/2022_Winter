@@ -2,7 +2,7 @@
 
 ### 개요
 https://covenant.tistory.com/224 참고
-1. 준비운동 PART1. 튼튼한 기본기
+1. 준비운동 PART2. 약점 체크
 2. 준비운동 PART2. 약점 체크
 3. 알고리즘 다지기 기초 백준 문제
 4. 최고빈출 DFS, BFS 기본문제
