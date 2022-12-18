@@ -14,11 +14,11 @@
     <td height="140px" align="center"> <a href="https://github.com/happyOBO"><img src="https://avatars.githubusercontent.com/u/44173619?s=460&v=4" width="140px" /><br/></a></td>
   </tr>
   <tr>
-    <td align="center">👼🏻 이민아</td>
-    <td align="center">👼🏻 여채린</td>
-    <td align="center">👼🏻 김나연</td>
-    <td align="center">👼🏻 안다영</td>
-    <td align="center">👼🏻 조정민</td>
+    <td align="center">👼🏻 chocchic</td>
+    <td align="center">👼🏻 ChaeLinYeo</td>
+    <td align="center">👼🏻 na2na8</td>
+    <td align="center">👼🏻 helloda0</td>
+    <td align="center">👼🏻 happyOBO</td>
   </tr>
 </table>
 <br/>
@@ -44,7 +44,7 @@
   - 초록색 🟩 : 모든 계획 완수
   - 파란색 🟦 : 일부 계획 완수
 
-| 주차 | 이민아 | 여채린 | 김나연 | 안다영 | 조정민 |
+| 주차 | chocchic | ChaeLinYeo | na2na8 | helloda0 | happyOBO |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | ✅ | ✅ | ⬜ | ⬜ | ✅ |
 | 2 | ✅ | ✅ | ⬜ | ⬜ | ✅ |
